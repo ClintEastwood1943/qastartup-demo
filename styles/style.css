@@ -8,7 +8,7 @@ body {
     left: 50%;
     width: 300px;
     height: 150px;
-    background-color: deepskyblue;
+    background-color: rgb(114, 221, 114);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,5 +16,6 @@ body {
 }
 
 .main-block-message {
-    font-size: 23px;
+    font-size: 25px;
+    color: white;
 }
